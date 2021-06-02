@@ -1,4 +1,4 @@
-# Reposiotorio de Alberto
+# Repositorio de Alberto
 
 Prácticas con Git
 
@@ -7,4 +7,3 @@ Prácticas con Git
 ## Cambio en local
 
 **CAMBIO EN GitHub**
-
